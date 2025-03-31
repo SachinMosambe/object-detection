@@ -1,0 +1,14 @@
+# Core Dependencies
+streamlit
+ultralytics
+torch
+torchvision
+torchaudio
+
+# Image Processing
+opencv-python-headless
+pillow
+numpy
+
+# Visualization
+matplotlib
